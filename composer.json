@@ -1,0 +1,15 @@
+{
+    "name": "ayman/gigz",
+    "autoload": {
+        "psr-4": {
+            "Ayman\\Gigz\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "omar ayman",
+            "email": "zeroomar973@gmail.com"
+        }
+    ],
+    "require": {}
+}
